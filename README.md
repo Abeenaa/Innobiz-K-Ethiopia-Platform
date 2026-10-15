@@ -1,4 +1,4 @@
-# Startup-Investor Matching Platform
+# Innobiz-K Ethiopia Platform
 
 Government platform connecting Ethiopian startups with investors.  
 **Ministry of Innovation and Technology (MInT)**
